@@ -1,0 +1,6 @@
+D:\C\exam\333\bin\Debug\333.exe.config
+D:\C\exam\333\bin\Debug\333.exe
+D:\C\exam\333\bin\Debug\333.pdb
+D:\C\exam\333\obj\Debug\333.csprojResolveAssemblyReference.cache
+D:\C\exam\333\obj\Debug\333.exe
+D:\C\exam\333\obj\Debug\333.pdb

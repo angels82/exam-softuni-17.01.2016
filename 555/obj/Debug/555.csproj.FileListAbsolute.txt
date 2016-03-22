@@ -1,0 +1,6 @@
+D:\C\exam\555\bin\Debug\555.exe.config
+D:\C\exam\555\bin\Debug\555.exe
+D:\C\exam\555\bin\Debug\555.pdb
+D:\C\exam\555\obj\Debug\555.csprojResolveAssemblyReference.cache
+D:\C\exam\555\obj\Debug\555.exe
+D:\C\exam\555\obj\Debug\555.pdb

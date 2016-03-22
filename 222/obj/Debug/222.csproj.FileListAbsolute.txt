@@ -1,0 +1,6 @@
+D:\C\exam\222\bin\Debug\222.exe.config
+D:\C\exam\222\bin\Debug\222.exe
+D:\C\exam\222\bin\Debug\222.pdb
+D:\C\exam\222\obj\Debug\222.csprojResolveAssemblyReference.cache
+D:\C\exam\222\obj\Debug\222.exe
+D:\C\exam\222\obj\Debug\222.pdb

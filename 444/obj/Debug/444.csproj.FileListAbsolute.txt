@@ -1,0 +1,6 @@
+D:\C\exam\444\bin\Debug\444.exe.config
+D:\C\exam\444\bin\Debug\444.exe
+D:\C\exam\444\bin\Debug\444.pdb
+D:\C\exam\444\obj\Debug\444.csprojResolveAssemblyReference.cache
+D:\C\exam\444\obj\Debug\444.exe
+D:\C\exam\444\obj\Debug\444.pdb
